@@ -1,0 +1,1 @@
+This code includes an extension of OpenRDF Sesame that can be used to create and populate a triple store on an android device, as well as a web application deployable on <a href='http://code.google.com/p/i-jetty/'>iJetty</a> with a simple implementation of the SPARQL protocol. The project also includes example code to use the triple store in applications.
